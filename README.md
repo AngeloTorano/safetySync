@@ -31,8 +31,7 @@ lives, property, and the environment in the CALABARZON region.
 
 ### Step 2: Create Database
 
-  1. Open your MySQL management tool (e.g., MySQL Workbench).
-  2. Create a new database named `safetysync`.
+  1. Create a new database named `safetysync`.
 
 ### Step 3: Import SQL File using Xampp(phpMyAdmin)
 
