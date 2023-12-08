@@ -18,20 +18,23 @@ lives, property, and the environment in the CALABARZON region.
 
 
 # Member:
- Arguelles, Reymark
- Hiwatig, Christian Luis
+ Arguelles, Reymark,
+ Hiwatig, Christian Luis,
  Torano, Angelo
 
  ## Setup Instructions
+### Step 1: Open Xampp Control Panel(install if don't have one)
 
-### Step 1: Create Database
+  1. start apache actions
+  2. start mysql actions
+  3. click mysql admin button
 
-1. Open your MySQL management tool (e.g., MySQL Workbench).
-2. Create a new database named `safetysync`.
+### Step 2: Create Database
 
-### Step 2: Import SQL File using Xampp(phpMyAdmin)
+  1. Open your MySQL management tool (e.g., MySQL Workbench).
+  2. Create a new database named `safetysync`.
 
-1. Locate the SQL file (`path/to/your/file.sql`) provided with this project.
-2. Open your MySQL management tool.
-3. Select the `safetysync` database.
-4. Import the SQL file into the database.
+### Step 3: Import SQL File using Xampp(phpMyAdmin)
+
+  1. after creating database import the file "safetysync.sql" to phpMyAdmin
+     
